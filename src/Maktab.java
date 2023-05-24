@@ -1,5 +1,6 @@
 public class Maktab {
 
+
     String bino;
     int xona;
     String fan;
